@@ -1,0 +1,58 @@
+# FAQ Chatbot
+
+A simple Python application that answers frequently asked questions (FAQs) using predefined responses and a user-friendly console interface.
+
+## Features
+
+* Responds to common user questions
+* Uses predefined FAQ responses
+* Interactive chatbot conversation
+* Handles unknown questions gracefully
+* Simple console-based interface
+
+## Technologies Used
+
+* Python
+* Conditional Statements
+* Loops
+* User Input/Output
+
+## Sample Questions
+
+| Question              | Response                                                  |
+| --------------------- | --------------------------------------------------------- |
+| Hello                 | Hello! How can I help you?                                |
+| What is Python?       | Python is a popular programming language.                 |
+| Who developed Python? | Guido van Rossum developed Python.                        |
+| What is CodeAlpha?    | CodeAlpha provides internship opportunities and projects. |
+| Exit                  | Goodbye!                                                  |
+
+## How to Run
+
+1. Download the project.
+2. Open terminal or command prompt.
+3. Run:
+
+python faq_chatbot.py
+
+## Sample Output
+
+=== FAQ Chatbot ===
+
+Type 'exit' to quit.
+
+You: hello
+
+Bot: Hello! How can I help you?
+
+You: what is python
+
+Bot: Python is a popular programming language.
+
+You: exit
+
+Bot: Goodbye!
+
+## Internship Project
+
+Developed as part of the CodeAlpha Python Programming Internship.
